@@ -1,14 +1,16 @@
 # Mi portafolio
 
-Portafolio personal hecho con HTML y CSS puro, desplegado en Vercel.
+Portafolio personal de Claudia Arbaiza, estudiante de Ingeniería en Desarrollo de Software y técnica en idioma inglés. Hecho con HTML, CSS y JavaScript, y desplegado en Vercel.
 
-- **Sitio en vivo:** (agrega aquí tu URL de Vercel)
+- **Sitio en vivo:** https://mi-portafolio-opal-psi.vercel.app/
 - **Tecnologías:** HTML, CSS y JavaScript
-- **Autor:** Claudia Arbaiza
+- **Autora:** Claudia Arbaiza
 
-## Cómo editarlo
+## Cómo abrir el proyecto
 
-1. Abre `index.html` y cambia tu nombre, tu correo y los enlaces de tus proyectos.
-2. Copia y pega un bloque `<li class="row">` por cada proyecto nuevo.
-3. Tu foto del inicio es `foto.jpg`. Para cambiarla, reemplaza ese archivo conservando el nombre.
-4. Para cambiar colores o fuentes, edita la sección `:root` al inicio de `styles.css`.
+1. Descarga o clona este repositorio.
+2. Abre la carpeta en VS Code.
+3. Haz doble clic en `index.html` para verlo en el navegador, o usa la extensión **Live Server** y haz clic en **Go Live**.
+
+No necesita instalar nada más.
+
