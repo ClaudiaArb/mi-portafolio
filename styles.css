@@ -114,6 +114,7 @@ section { position: relative; padding: clamp(5rem, 11vw, 9rem) var(--pad); }
 .process i { font-family: var(--display); font-weight: 700; font-size: 2.8rem; line-height: 1; color: var(--gold); margin-bottom: auto; padding-top: 1.4rem; }
 .process b { font-family: var(--display); font-size: 1.4rem; margin-bottom: .2rem; }
 .process span { font-size: .9rem; opacity: .75; }
+.process em { font-style: normal; font-weight: 700; font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; color: var(--gold); margin-top: .8rem; padding-top: .6rem; border-top: 1px solid rgba(201,162,74,.4); }
 
 /* Sobre mí */
 .about { background: linear-gradient(160deg, #1d1810, var(--night)); }
